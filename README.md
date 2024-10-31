@@ -5,7 +5,7 @@
 -	Giao diện người dùng (UI): có thể là web hoặc là ứng dụng chạy trên ứng dụng di động để cho phép người dùng theo dõi và truy vấn đơn hàng của họ
 -	Máy chủ (server): Nhận và quản lí yêu cầu, kết nối với database để truy xuất thông tin.
 -	Cơ sở dữ liệu (database): lưu trữ và truy xuất thông tin về đơn hàng.
--	Liên kết với bên thứ 3: như là API của các đơn vị dịch vụ giao hàng để truy xuất thông tin về kiện hàng khi giao.
+-	Liên kết với bên thứ 3: như là API của các đơn vị dịch vụ giao hàng để truy xuất thông tin về kiện hàng khi giao ( đã giao, đang chờ giao, đang vận chuyển, đang chờ giao lại, hoàn hàng...) để hệ thống có thể cập nhật được trạng thái đơn hàng.
 ##	Các tính năng của hệ thống
 -	Các chức năng như các sàn giao dịch điện tử khác: đặt, cho đơn hàng vào giỏ hàng ảo, xem thông tin về hàng hóa,…
 -	Lịch sử giao hàng, thời gian giao hàng,… (có thể tích hợp AI để dự đoán thời gian giao hàng)

@@ -46,6 +46,6 @@ o	Cập nhật trạng thái giao hàng.
 -	Sử dụng công nghệ như NLP để chatbot có thể nhận diện và đưa ra thông tin về trạng thái mà người dùng muốn biết khi nó kết hợp với database của hệ thống. 
 -	Workflow có thể như sau:
  
-![image](https://github.com/user-attachments/assets/d4d9244d-e834-4422-9d88-14b3d911ccde)
+![image](https://github.com/user-attachments/assets/f918140d-b3f1-4ec9-9348-9d4644de65ec)
 
 

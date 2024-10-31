@@ -34,10 +34,14 @@
 -	Từ đó, ta có thể truy xuất thông tin đơn hàng bằng cách sau khi liên kết hết các bảng bằng JOIN thì truy xuất bằng các câu lệnh WHERE hoặc LEFT JOIN, … để hệ thống có thể truy xuất thông tin đơn hàng.
 ## Hệ thống chatbot hỗ trợ khách hàng.
 -	Ta cần xây dựng thêm một hệ thống chatbot để hỗ trợ khách hàng trong việc nếu không truy vấn được dữ liệu về trạng thái vận chuyển đơn hàng.
--	Xây dựng chatbot để có thể hỗ trợ về các câu hỏi như: 
+-	Xây dựng chatbot để có thể hỗ trợ về các câu hỏi như:
+  
 o	Kiểm tra trạng thái đơn hàng.
+
 o	Xem chi tiết sản phẩm trong đơn hàng.
+
 o	Cập nhật trạng thái giao hàng.
+
 …
 -	Sử dụng công nghệ như NLP để chatbot có thể nhận diện và đưa ra thông tin về trạng thái mà người dùng muốn biết khi nó kết hợp với database của hệ thống. 
 -	Workflow có thể như sau:
